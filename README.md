@@ -1,5 +1,5 @@
 # DesignPatterns
-Multiples examples of design patterns : \
+Multiple examples of design patterns : \
 Adapter \
 Command \
 Composite \
