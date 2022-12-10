@@ -1,0 +1,2 @@
+fr.leo.youssfi.designsPattern.Stategie.Metier.IGRMaroc
+fr.leo.youssfi.designsPattern.Stategie.Metier.IGRAlgerie

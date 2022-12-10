@@ -1,0 +1,2 @@
+fr.leo.o.designsPattern.TemplateMethod.Requete2
+java.io.File
