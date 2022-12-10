@@ -7,7 +7,7 @@ Decorator \
 State \
 Fabric \
 AbstractFabric \
-FlyLight \
+FlyWeigth \
 Mediator \
 Observer \
 Prototype \
