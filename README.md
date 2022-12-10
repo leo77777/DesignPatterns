@@ -1,10 +1,10 @@
 # DesignPatterns
-Multiples examples of design patterns
-Adapter 
-Command 
-Composite 
-Decorator 
-State 
+Multiples examples of design patterns : \
+Adapter \
+Command \
+Composite \
+Decorator \
+State \
 Fabric \
 AbstractFabric \
 FlyLight \
